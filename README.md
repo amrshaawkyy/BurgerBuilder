@@ -1,5 +1,22 @@
 # PROJECT BurgerBuilder
 
+## Description
+```
+Data from Firebase
+‘Axios’ and 'XMLHTTPREQUEST' are used to get the data and fill the state in the stateful component.
+
+- This is a customized burger builder application. 
+- User must log in or create an account to order.
+- After signing in the user creats his own burger layers from salad, bacon, cheese and meat, the ingredients and its' prices shows real-time while adding the burger layers.
+- The user then enters his/her information from name, address, country, zip and e-mail and chooses a fast delivery or a normal one.
+- The user can view the history of his/her orders. 
+
+Hints:
+o Desktop and Mobile App.
+
+```
+
+
 ## Requirements
 
 For development, you will only need Node.js installed on your environement.
